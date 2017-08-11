@@ -1,7 +1,7 @@
 package bisectiontest;
 
 public class NumericalAlgorithmsOfSolvingEq {
-
+//test ssh
     private double b, a;
     private final double epsilon = 3e-15;
     private final int max_count = 400;
